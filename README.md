@@ -5,6 +5,7 @@ A webapp using Django, Matplotlib, and the Dexcom API to analyse user glucose da
 ---
 
 ## How work with virtual environment
+Please activate the virtual environment before running and Django commands.
 
 ### 1) Activate Virtual Environment
 
@@ -26,3 +27,4 @@ A webapp using Django, Matplotlib, and the Dexcom API to analyse user glucose da
 -   Requests -> `pip install requests`
 -   Numpy (installed by matplotlib) -> `pip install numpy`
 -   Pandas -> `pip install pandas`
+-   Jupyter -> `pip install jupyter`
