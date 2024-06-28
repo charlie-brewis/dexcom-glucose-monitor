@@ -7,6 +7,11 @@ A webapp using Django, Matplotlib, and the Dexcom API to analyse user glucose da
 ## How work with virtual environment
 Please activate the virtual environment before running and Django commands.
 
+### 0) Create your local virtual environment
+-   Install the virtualenv module -> `pip install virtualenv`
+-   Create a new virtual environement -> `virtualenv .venv`
+-   Activate the virtual environment and install all required modules
+
 ### 1) Activate Virtual Environment
 
 -   Navigate to reppo landing directory -> `.\dexcom-glucose-monitor\`
